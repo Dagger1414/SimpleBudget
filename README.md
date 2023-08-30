@@ -1,2 +1,2 @@
 # SimpleBudget
-The simple budget app for you
+The simple budget control app for you
